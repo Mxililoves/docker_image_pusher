@@ -6,4 +6,5 @@ rabbitmq
 ubuntu
 openjdk
 centos
-nacos
+nacos/nacos-server
+
