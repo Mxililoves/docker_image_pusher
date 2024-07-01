@@ -7,4 +7,4 @@ ubuntu
 openjdk
 centos
 nacos/nacos-server
-
+postgres:alpine
